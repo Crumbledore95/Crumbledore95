@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Crumbledore95
 - 👀 I’m interested in web/ mobile apps development
 - 🌱 I’m currently learning HTML, CSS, JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on GitHub & Linkedin 
 - 📫 How to reach me my Github profile Crumbledore95/ email me: crumbledore248@gmail.com
 
 <!---
